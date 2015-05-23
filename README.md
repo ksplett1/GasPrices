@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 This R program is a Shiny application to plot a linear regression model of gas prices 1982 - 2014.
 
@@ -56,8 +55,6 @@ runApp()
 
 To run the Shiny application after the Shiny application has been published:
 
-1. Browse to https://ksplett1.shinyapps.io/code/ 
-=======
-# GasPrices
-Shiny application to demonstrate x squared term in simple linear regression model of annual gas prices
->>>>>>> 1b0ff3192e17c6ce480853c1cd40bb3b62f59d5d
+1. Browse to https://ksplett1.shinyapps.io/code
+
+
